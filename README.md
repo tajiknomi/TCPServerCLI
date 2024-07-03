@@ -28,11 +28,11 @@ TCPServerCLI.exe [PortNumber]
 ```
 The tool accepts two commands
 ```
-# specify the [id] when client is connected, 
-select client [id]
+# Specify the [id] of the connected client/session
+1) select client [id]
 
 # Disconnect from client/session
-exit
+2) exit
 ```
 
 ## Screenshots
