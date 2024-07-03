@@ -36,10 +36,12 @@ exit
 Waiting for clients to connect, two clients are connected
 ![Alt text](/screenshots/1.JPG?raw=true "Optional Title")
 
-client 0 is selected for communication
+Client 0 is selected for communication
+
 ![Alt text](/screenshots/2.JPG?raw=true "Optional Title")
 
 Here i'm spawing Interactive terminal on client 1
+
 ![Alt text](/screenshots/3.JPG?raw=true "Optional Title")
 
 ## License
