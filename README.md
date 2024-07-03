@@ -22,6 +22,12 @@ cmake -A x64 ..
 cmake -A Win32 ..
 ```
 
+You can specify the CMake generator to create configuration files for your build system e.g. To generate VS19 project files for a 64-bit build
+
+```
+cmake -G "Visual Studio 16 2019" -A x64 ..
+
+```
 ## Usage
 ```
 TCPServerCLI.exe [PortNumber]
