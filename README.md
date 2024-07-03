@@ -34,6 +34,7 @@ exit
 
 ## Screenshots
 Waiting for clients to connect, two clients are connected
+
 ![Alt text](/screenshots/1.JPG?raw=true "Optional Title")
 
 Client 0 is selected for communication
