@@ -11,7 +11,7 @@ void displayUsageInstructions(void) {
 
 	// Display commands
 	std::cout << "select client [id]" << std::endl;
-	std::cout << "exit\n\n\n\n\n";
+	std::cout << "exit\n\n\n\n";
 }
 
 

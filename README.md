@@ -2,17 +2,13 @@
 
 A Simple C++ TCP Server for Windows which handle multiple client/session for reverse connection(s)
 
-## Download
 
-```bash
-git clone https://github.com/tajiknomi/TCPServerCLI.git
-```
 ## How to build
 
 ```
 cd TCPServerCLI && mkdir build && cd build
 cmake ..
-cmake --build .
+cmake --build . --config Release
 ```
 
 ## 32/64 build
