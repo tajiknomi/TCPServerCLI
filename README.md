@@ -1,6 +1,6 @@
 # Intro
 
-netcat is mostly used for reverse connection but there is a limitation of handling only one connection at a time. This utilty provide a simpler way to handle multiple sessions using one terminal while still listening to other incomming connections.
+netcat is mostly used for reverse connection but it's limited to handling only one connection at a time. This utility offers a more convenient way to manage multiple sessions within a single terminal, allowing you to listen for and handle incoming connections simultaneously.
 
 ## How to build
 
