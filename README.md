@@ -1,7 +1,6 @@
 # Intro
 
-A Simple C++ TCP Server for Windows which handle multiple client/session for reverse connection(s)
-
+netcat is mostly used for reverse connection but there is a limitation of handling only one connection at a time. This utilty provide a simpler way to handle multiple sessions using one terminal while still listening to other incomming connections.
 
 ## How to build
 
