@@ -5,21 +5,21 @@ netcat is mostly used for reverse connection but it's limited to handling only o
 ## How to build
 
 ```
-cd TCPServerCLI && mkdir build && cd build
-cmake ..
-cmake --build . --config Release
+$ cd TCPServerCLI && mkdir build && cd build
+$ cmake ..
+$ cmake --build . --config Release
 ```
 
 You can specify the [cmake-generator](https://cmake.org/cmake/help/latest/manual/cmake-generators.7.html) to create configuration files for your build system. some examples are given below
 
 ```
-cmake -G "Visual Studio 16 2019" -A x64 ..
-cmake -A x64 ..
-cmake -A Win32 ..
+$ cmake -G "Visual Studio 16 2019" -A x64 ..
+$ cmake -A x64 ..
+$ cmake -A Win32 ..
 ```
 ## Usage
 ```
-TCPServerCLI.exe [PortNumber]
+$ TCPServerCLI.exe [PortNumber]
 ```
 The tool accepts two commands
 ```
