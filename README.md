@@ -19,7 +19,7 @@ $ cmake -A Win32 ..
 ```
 ## Usage
 ```
-$ TCPServerCLI.exe [PortNumber]
+$ TCPServerCLI.exe <port>
 ```
 The tool accepts two commands
 ```
